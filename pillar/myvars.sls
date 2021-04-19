@@ -1,0 +1,4 @@
+vhosts:
+  - nutty
+  - gummy
+  - chewy
